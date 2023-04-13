@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    
+}
+
+h2{
+    text-align:center;
+    font-family: "papyrus", "Courier New",cursive;
+    font-size: 30px;
+
+}
+
+h5{
+    font-family: 'helvetica', Times, serif;
+    text-align:center;
+    font-size: 15x;
+}
+div {
+    
+    text-align:right;
+    margin: 2px solid black; 
+}
+
